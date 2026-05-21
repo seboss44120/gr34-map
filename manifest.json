@@ -1,0 +1,32 @@
+{
+  "name": "GR34 · Traversée Bretonne",
+  "short_name": "GR34 BZH",
+  "description": "Suivi de randonnée GR34 et de la Traversée Bretonne à vélo",
+  "start_url": "/gr34-map/",
+  "scope": "/gr34-map/",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#090e1c",
+  "theme_color": "#090e1c",
+  "lang": "fr",
+  "icons": [
+    {
+      "src": "/gr34-map/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/gr34-map/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/gr34-map/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
